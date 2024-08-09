@@ -16,7 +16,7 @@
 - Power BI Dashboard - live Interactive Dashboard for visualizing the insights.
 - Alteryx Workflows - Used in RFM Analysis to calculate score for customer segmentation.
 
-# 𝐒𝐐𝐋 𝐈𝐧-𝐃𝐞𝐩𝐭𝐡 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 👩‍💻
+## 𝐒𝐐𝐋 𝐈𝐧-𝐃𝐞𝐩𝐭𝐡 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 👩‍💻
 
 - Analyzed an e-commerce store dataset by writing SQL Queries to get a holistic view of the e-commerce operations. <br>
 - Database Used - MYSQL <br> 
